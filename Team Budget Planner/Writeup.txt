@@ -1,0 +1,2 @@
+As a developer, write a program using JavaScript to decide the budget of a specific team.
+This Project was created by Niladri Chowdhury
